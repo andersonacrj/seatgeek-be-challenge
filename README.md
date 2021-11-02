@@ -4,7 +4,7 @@
   <a href="https://seatgeek.com/">
     <img
       alt="Seatgeek"
-      src="https://github.com/andersonacrj/seatgeek/blob/main/public/images/seatgeek.png"
+      src="https://github.com/andersonacrj/seatgeek-be-challenge/blob/main/public/images/seatgeek.png"
       width="400"
     />
   </a>
