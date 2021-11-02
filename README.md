@@ -34,7 +34,7 @@ The goal of this coding challenge is to have you produce code that shows us in c
 
 - Run Node project (*inside project folder)
  
- npm start
+   npm start
 
 - Jasmine Unit Test
 
