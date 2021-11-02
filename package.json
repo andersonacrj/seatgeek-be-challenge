@@ -1,0 +1,28 @@
+{
+  "name": "seatgeek-be-challenge",
+  "version": "1.0.0",
+  "description": "SeatGeek's Coding Challengef",
+  "author": "Anderson Costa <andersonac25@gmail.com>",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./src/server",
+    "test": "jasmine --config=jasmine.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andersonacrj/seatgeek-be-challenge.git"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andersonacrj/seatgeek-be-challenge/issues"
+  },
+  "homepage": "https://github.com/andersonacrj/seatgeek-be-challenge#readme",
+  "dependencies": {
+    "jasmine": "^3.10.0",
+    "net": "^1.0.2",
+    "nodemon": "^2.0.14",
+    "pug": "^3.0.2",
+    "winston": "^3.3.3"
+  }
+}
