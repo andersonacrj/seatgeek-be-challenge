@@ -28,10 +28,11 @@ The goal of this coding challenge is to have you produce code that shows us in c
 
 - Commands
 
-  docker build -t seatgeek-be-challenge-api .
+  docker build -t seatgeek-be-challenge .
 
   docker run -p 8099:8099 -d seatgeek-be-challenge-api
 
+- Run Node project (*inside project folder)
   npm start
 
 - Jasmine Unit Test
