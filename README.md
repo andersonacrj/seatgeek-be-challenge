@@ -17,6 +17,7 @@ The goal of this coding challenge is to have you produce code that shows us in c
 
 - 🤔 [How To Use](#how-to-use)
 - 🚀 [Technologies](#technologies)
+- 📋 [Links](#links)
 
 ---
 
@@ -24,7 +25,7 @@ The goal of this coding challenge is to have you produce code that shows us in c
 
 - Docker Image
 
-  docker push andersonac25/node-express:last
+  docker push andersonac25/seatgeek-be-challenge:last
 
 - Commands
 
@@ -47,10 +48,22 @@ The goal of this coding challenge is to have you produce code that shows us in c
 <h2 id="technologies">🚀 Technologies</h2>
 
 - Docker
-- Node
+- Node (NET module)
 - Javascript
 - Winston Log 
 - Jasmine Unit Test
+
+[Back To The Top](#title)
+
+---
+
+<h2 id="links">📋 Links</h2>
+
+- Docker Image:  https://hub.docker.com/repository/docker/andersonac25/seatgeek-be-challenge/
+- GitHub:  https://github.com/andersonacrj/seatgeek-be-challenge
+- Node: https://nodejs.dev/
+- Jasmine: https://jasmine.github.io/
+- Node Socket Library: https://nodejs.org/api/net.html
 
 [Back To The Top](#title)
 
