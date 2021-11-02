@@ -17,7 +17,6 @@ The goal of this coding challenge is to have you produce code that shows us in c
 
 - 🤔 [How To Use](#how-to-use)
 - 🚀 [Technologies](#technologies)
-- 📉 [Monitor](#monitor)
 
 ---
 
