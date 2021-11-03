@@ -3,7 +3,7 @@ const url = require('url');
 const dotenv = require("dotenv");
 const path = require("path");
 
-dotenv.config({ path: path.resolve(__dirname, "../.env") });
+dotenv.config({ path: path.resolve(__dirname, "../production.env") });
 
 
 const port = process.env.PORT;
