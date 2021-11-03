@@ -29,9 +29,9 @@ The goal of this coding challenge is to have you produce code that shows us in c
 
 - Commands
 
-  docker build -t seatgeek-be-challenge .
+  docker build -t andersonac25/seatgeek-be-challenge .
 
-  docker run -p 8099:8099 -d seatgeek-be-challenge
+  docker run -p 8099:8099 -d andersonac25/seatgeek-be-challenge
 
 - Run Node project (*inside project folder)
  
